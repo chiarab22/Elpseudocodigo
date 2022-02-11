@@ -1,4 +1,4 @@
-# El-pseudocódigo
+# El pseudocódigo
 Repositorio relativo a la entrega número 2
 
 
