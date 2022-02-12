@@ -9,9 +9,9 @@ public class QueHace{
 
         Scanner teclado = new Scanner(System.in);
 
-        System.out.print("Introduzca un valor real: ");
+        System.out.print("Introduzca un valor: ");
         valor1 = teclado.nextDouble();
-        System.out.print("Introduzca otro valor real: ");
+        System.out.print("Introduzca otro valor: ");
         valor2 = teclado.nextDouble();
 
         teclado.close();
