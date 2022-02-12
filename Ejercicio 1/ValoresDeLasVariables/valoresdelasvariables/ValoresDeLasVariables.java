@@ -15,7 +15,7 @@ public class ValoresDeLasVariables{
 
         a=7;
 
-        System.out.println(String.format("a = %d", a));
+        System.out.println(String.format("a = %d y b = %d", a,b));
 
 
     }
