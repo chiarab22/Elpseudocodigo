@@ -9,9 +9,11 @@ Este es el enlace al repositorio relativo a la entrega 2: https://github.com/chi
 Ejercicio 1:
 
 UML:
+
 ![Valores de las variables_UML](https://user-images.githubusercontent.com/98779707/153761445-245aeb06-5805-4518-97cf-e7c4becb6658.svg)
 
 Diagrama de flujo:
+
 ![Valores de las variables_flowchart](https://user-images.githubusercontent.com/98779707/153761487-4cf628fb-ecdb-40ec-90b4-ef7535b6ae55.svg)
 
 - ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
